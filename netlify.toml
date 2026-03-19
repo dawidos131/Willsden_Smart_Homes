@@ -1,0 +1,19 @@
+[[redirects]]
+  from = "/api/google-reviews"
+  to = "/.netlify/functions/google-reviews"
+  status = 200
+
+[[redirects]]
+  from = "/api/reviews-feed"
+  to = "/.netlify/functions/google-reviews"
+  status = 200
+
+[[redirects]]
+  from = "/api/google-place-photo"
+  to = "/.netlify/functions/google-place-photo"
+  status = 200
+
+[[redirects]]
+  from = "/api/place-photo"
+  to = "/.netlify/functions/google-place-photo"
+  status = 200

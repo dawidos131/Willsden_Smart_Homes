@@ -1,0 +1,22 @@
+dist/
+/.audit/
+reports/
+
+# Local tooling folders
+.netlify/
+.codex/
+node_modules/
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
+
+# Local source archives
+Media/*.zip
+willesden-smart-homes-images/
+eo
+
+# Windows metadata artifacts
+*Zone.Identifier*
+*#Uf03aZone.Identifier*

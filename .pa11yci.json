@@ -1,0 +1,18 @@
+{
+  "defaults": {
+    "standard": "WCAG2AA",
+    "timeout": 30000,
+    "wait": 500,
+    "chromeLaunchConfig": {
+      "args": [
+        "--headless=new",
+        "--no-sandbox"
+      ]
+    }
+  },
+  "urls": [
+    "https://4f832c8c2c1563.lhr.life/",
+    "https://4f832c8c2c1563.lhr.life/services.html",
+    "https://4f832c8c2c1563.lhr.life/contact.html"
+  ]
+}

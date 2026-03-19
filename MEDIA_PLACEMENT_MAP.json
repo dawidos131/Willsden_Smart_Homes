@@ -1,0 +1,567 @@
+{
+  "index.html": {
+    "hero": [
+      "assets/photos/hero/david-on-site-02-1600x900.webp",
+      "Electrician on site working on exterior cabling and hardware"
+    ],
+    "gallery_set": [
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ],
+      [
+        "david-on-site-01",
+        "Electrician on site working in a narrow outdoor access area"
+      ],
+      [
+        "consumer-unit-01",
+        "UK consumer unit (fuse board) with labelled circuits"
+      ],
+      [
+        "outdoor-light-01",
+        "Outdoor LED security floodlight installation on brick wall"
+      ],
+      [
+        "testing-kit-01",
+        "Insulation resistance tester and test leads in a carry case"
+      ],
+      [
+        "led-controller-01",
+        "LED lighting controller module and cabling"
+      ]
+    ],
+    "icons": [
+      "icon-wrench.svg",
+      "icon-thermostat.svg",
+      "icon-automation.svg",
+      "anim-wifi-waves.svg",
+      "anim-bolt-pulse.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "services.html": {
+    "hero": [
+      "assets/photos/hero/david-installation-01-1600x900.webp",
+      "Electrician working on a wall installation in a UK home"
+    ],
+    "gallery_set": [
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ],
+      [
+        "david-on-site-02",
+        "Electrician on site working on exterior cabling and hardware"
+      ],
+      [
+        "heater-install-01",
+        "Wall-mounted heater installed and tested"
+      ],
+      [
+        "led-controller-01",
+        "LED lighting controller module and cabling"
+      ],
+      [
+        "consumer-unit-01",
+        "UK consumer unit (fuse board) with labelled circuits"
+      ],
+      [
+        "outdoor-light-01",
+        "Outdoor LED security floodlight installation on brick wall"
+      ]
+    ],
+    "icons": {
+      "Lighting and Fittings": "icon-lightbulb.svg",
+      "Sockets, Switches and Accessories": "icon-socket.svg",
+      "Fans, Hoods and Minor Fault-Finding": "icon-wrench.svg",
+      "Safety Checks": "icon-shield-check.svg",
+      "Smart Heating (Nest / Hive)": "icon-thermostat.svg",
+      "Video Doorbells and Entry": "icon-cctv.svg",
+      "Smart Cameras and CCTV": "icon-cctv.svg",
+      "Smart Lighting and Reliability Fixes": "icon-lightbulb.svg",
+      "Typical Projects": "icon-automation.svg",
+      "Included in Delivery": "anim-check-circle.svg"
+    },
+    "og": "assets/photos/og/og-services.jpg"
+  },
+  "about.html": {
+    "hero": [
+      "assets/photos/hero/david-on-site-01-1600x900.webp",
+      "Electrician on site working in a narrow outdoor access area"
+    ],
+    "gallery_set": [
+      [
+        "david-on-site-01",
+        "Electrician on site working in a narrow outdoor access area"
+      ],
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ],
+      [
+        "testing-kit-01",
+        "Insulation resistance tester and test leads in a carry case"
+      ]
+    ],
+    "icons": [
+      "icon-shield-check.svg",
+      "anim-check-circle.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "contact.html": {
+    "hero": [
+      "assets/photos/hero/david-on-site-02-1600x900.webp",
+      "Electrician on site working on exterior cabling and hardware"
+    ],
+    "gallery_set": [
+      [
+        "david-on-site-02",
+        "Electrician on site working on exterior cabling and hardware"
+      ]
+    ],
+    "icons": [
+      "icon-calendar-clock.svg",
+      "anim-check-circle.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "pricing-booking.html": {
+    "hero": [
+      "assets/photos/hero/david-installation-01-1600x900.webp",
+      "Electrician working on a wall installation in a UK home"
+    ],
+    "gallery_set": [
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ]
+    ],
+    "icons": [
+      "icon-calendar-clock.svg",
+      "icon-shield-check.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "reviews.html": {
+    "hero": [
+      "assets/photos/hero/david-installation-01-1600x900.webp",
+      "Electrician working on a wall installation in a UK home"
+    ],
+    "gallery_set": [
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ]
+    ],
+    "icons": [
+      "icon-quote.svg",
+      "anim-check-circle.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "faq.html": {
+    "hero": [
+      "assets/photos/hero/testing-kit-01-1600x900.webp",
+      "Insulation resistance tester and test leads in a carry case"
+    ],
+    "gallery_set": [
+      [
+        "testing-kit-01",
+        "Insulation resistance tester and test leads in a carry case"
+      ]
+    ],
+    "icons": [
+      "anim-check-circle.svg",
+      "icon-shield-check.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "areas.html": {
+    "hero": [
+      "assets/photos/hero/david-on-site-02-1600x900.webp",
+      "Electrician on site working on exterior cabling and hardware"
+    ],
+    "gallery_set": [
+      [
+        "david-on-site-02",
+        "Electrician on site working on exterior cabling and hardware"
+      ],
+      [
+        "outdoor-light-01",
+        "Outdoor LED security floodlight installation on brick wall"
+      ]
+    ],
+    "icons": [
+      "anim-bolt-pulse.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "privacy.html": {
+    "hero": null,
+    "gallery_set": [],
+    "icons": [
+      "icon-shield-check.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "electrical-repairs.html": {
+    "hero": [
+      "assets/photos/hero/david-installation-01-1600x900.webp",
+      "Electrician working on a wall installation in a UK home"
+    ],
+    "gallery_set": [
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ],
+      [
+        "testing-kit-01",
+        "Insulation resistance tester and test leads in a carry case"
+      ]
+    ],
+    "icons": [
+      "icon-wrench.svg",
+      "icon-shield-check.svg"
+    ],
+    "og": "assets/photos/og/og-services.jpg"
+  },
+  "electrical-fault-finding.html": {
+    "hero": [
+      "assets/photos/hero/testing-kit-01-1600x900.webp",
+      "Insulation resistance tester and test leads in a carry case"
+    ],
+    "gallery_set": [
+      [
+        "testing-kit-01",
+        "Insulation resistance tester and test leads in a carry case"
+      ],
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ]
+    ],
+    "icons": [
+      "icon-fault-finding.svg",
+      "icon-shield-check.svg"
+    ],
+    "og": "assets/photos/og/og-services.jpg"
+  },
+  "eicr.html": {
+    "hero": [
+      "assets/photos/hero/testing-kit-01-1600x900.webp",
+      "Insulation resistance tester and test leads in a carry case"
+    ],
+    "gallery_set": [
+      [
+        "testing-kit-01",
+        "Insulation resistance tester and test leads in a carry case"
+      ],
+      [
+        "consumer-unit-01",
+        "UK consumer unit (fuse board) with labelled circuits"
+      ]
+    ],
+    "icons": [
+      "icon-shield-check.svg",
+      "icon-fault-finding.svg"
+    ],
+    "og": "assets/photos/og/og-services.jpg"
+  },
+  "consumer-unit-replacement.html": {
+    "hero": [
+      "assets/photos/hero/consumer-unit-01-1600x900.webp",
+      "UK consumer unit (fuse board) with labelled circuits"
+    ],
+    "gallery_set": [
+      [
+        "consumer-unit-01",
+        "UK consumer unit (fuse board) with labelled circuits"
+      ],
+      [
+        "testing-kit-01",
+        "Insulation resistance tester and test leads in a carry case"
+      ]
+    ],
+    "icons": [
+      "icon-consumer-unit.svg",
+      "icon-shield-check.svg"
+    ],
+    "og": "assets/photos/og/og-services.jpg"
+  },
+  "lighting-installation.html": {
+    "hero": [
+      "assets/photos/hero/david-installation-01-1600x900.webp",
+      "Electrician working on a wall installation in a UK home"
+    ],
+    "gallery_set": [
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ],
+      [
+        "led-controller-01",
+        "LED lighting controller module and cabling"
+      ],
+      [
+        "outdoor-light-01",
+        "Outdoor LED security floodlight installation on brick wall"
+      ]
+    ],
+    "icons": [
+      "icon-lightbulb.svg"
+    ],
+    "og": "assets/photos/og/og-services.jpg"
+  },
+  "sockets-and-switches.html": {
+    "hero": [
+      "assets/photos/hero/david-installation-01-1600x900.webp",
+      "Electrician working on a wall installation in a UK home"
+    ],
+    "gallery_set": [
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ]
+    ],
+    "icons": [
+      "icon-socket.svg",
+      "icon-wrench.svg"
+    ],
+    "og": "assets/photos/og/og-services.jpg"
+  },
+  "outdoor-lighting.html": {
+    "hero": [
+      "assets/photos/hero/outdoor-light-01-1600x900.webp",
+      "Outdoor LED security floodlight installation on brick wall"
+    ],
+    "gallery_set": [
+      [
+        "outdoor-light-01",
+        "Outdoor LED security floodlight installation on brick wall"
+      ],
+      [
+        "david-on-site-02",
+        "Electrician on site working on exterior cabling and hardware"
+      ]
+    ],
+    "icons": [
+      "icon-outdoor-light.svg",
+      "icon-lightbulb.svg"
+    ],
+    "og": "assets/photos/og/og-services.jpg"
+  },
+  "smart-thermostat-installation.html": {
+    "hero": [
+      "assets/photos/hero/heater-install-01-1600x900.webp",
+      "Wall-mounted heater installed and tested"
+    ],
+    "gallery_set": [
+      [
+        "heater-install-01",
+        "Wall-mounted heater installed and tested"
+      ],
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ]
+    ],
+    "icons": [
+      "icon-thermostat.svg",
+      "anim-wifi-waves.svg"
+    ],
+    "og": "assets/photos/og/og-smart-home.jpg"
+  },
+  "cctv-installation.html": {
+    "hero": [
+      "assets/photos/hero/david-on-site-02-1600x900.webp",
+      "Electrician on site working on exterior cabling and hardware"
+    ],
+    "gallery_set": [
+      [
+        "david-on-site-02",
+        "Electrician on site working on exterior cabling and hardware"
+      ],
+      [
+        "control-panel-01",
+        "Electrical control panel with relays and neatly routed cables"
+      ]
+    ],
+    "icons": [
+      "icon-cctv.svg",
+      "icon-shield-check.svg"
+    ],
+    "og": "assets/photos/og/og-services.jpg"
+  },
+  "smart-home.html": {
+    "hero": [
+      "assets/photos/hero/david-installation-01-1600x900.webp",
+      "Electrician working on a wall installation in a UK home"
+    ],
+    "gallery_set": [
+      [
+        "heater-install-01",
+        "Wall-mounted heater installed and tested"
+      ],
+      [
+        "led-controller-01",
+        "LED lighting controller module and cabling"
+      ],
+      [
+        "testing-kit-01",
+        "Insulation resistance tester and test leads in a carry case"
+      ]
+    ],
+    "icons": [
+      "icon-thermostat.svg",
+      "icon-cctv.svg",
+      "icon-lightbulb.svg",
+      "anim-wifi-waves.svg"
+    ],
+    "og": "assets/photos/og/og-smart-home.jpg"
+  },
+  "automation.html": {
+    "hero": [
+      "assets/photos/hero/siemens-logo-01-1600x900.webp",
+      "Siemens LOGO! controller with connected wiring"
+    ],
+    "gallery_set": [
+      [
+        "siemens-logo-01",
+        "Siemens LOGO! controller with connected wiring"
+      ],
+      [
+        "control-panel-01",
+        "Electrical control panel with relays and neatly routed cables"
+      ],
+      [
+        "led-controller-01",
+        "LED lighting controller module and cabling"
+      ]
+    ],
+    "icons": [
+      "icon-automation.svg",
+      "anim-wifi-waves.svg"
+    ],
+    "og": "assets/photos/og/og-automation.jpg"
+  },
+  "willesden-electrician.html": {
+    "hero": [
+      "assets/photos/hero/david-on-site-02-1600x900.webp",
+      "Electrician on site working on exterior cabling and hardware"
+    ],
+    "gallery_set": [
+      [
+        "david-on-site-02",
+        "Electrician on site working on exterior cabling and hardware"
+      ]
+    ],
+    "icons": [
+      "anim-bolt-pulse.svg",
+      "icon-calendar-clock.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "harlesden-electrician.html": {
+    "hero": [
+      "assets/photos/hero/david-on-site-01-1600x900.webp",
+      "Electrician on site working in a narrow outdoor access area"
+    ],
+    "gallery_set": [
+      [
+        "david-on-site-01",
+        "Electrician on site working in a narrow outdoor access area"
+      ]
+    ],
+    "icons": [
+      "anim-bolt-pulse.svg",
+      "icon-calendar-clock.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "brondesbury-electrician.html": {
+    "hero": [
+      "assets/photos/hero/david-installation-01-1600x900.webp",
+      "Electrician working on a wall installation in a UK home"
+    ],
+    "gallery_set": [
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ]
+    ],
+    "icons": [
+      "anim-bolt-pulse.svg",
+      "icon-calendar-clock.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "cricklewood-electrician.html": {
+    "hero": [
+      "assets/photos/hero/david-on-site-02-1600x900.webp",
+      "Electrician on site working on exterior cabling and hardware"
+    ],
+    "gallery_set": [
+      [
+        "david-on-site-02",
+        "Electrician on site working on exterior cabling and hardware"
+      ]
+    ],
+    "icons": [
+      "anim-bolt-pulse.svg",
+      "icon-calendar-clock.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "kensal-green-electrician.html": {
+    "hero": [
+      "assets/photos/hero/david-on-site-01-1600x900.webp",
+      "Electrician on site working in a narrow outdoor access area"
+    ],
+    "gallery_set": [
+      [
+        "david-on-site-01",
+        "Electrician on site working in a narrow outdoor access area"
+      ]
+    ],
+    "icons": [
+      "anim-bolt-pulse.svg",
+      "icon-calendar-clock.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "kilburn-electrician.html": {
+    "hero": [
+      "assets/photos/hero/david-installation-01-1600x900.webp",
+      "Electrician working on a wall installation in a UK home"
+    ],
+    "gallery_set": [
+      [
+        "david-installation-01",
+        "Electrician working on a wall installation in a UK home"
+      ]
+    ],
+    "icons": [
+      "anim-bolt-pulse.svg",
+      "icon-calendar-clock.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  },
+  "queens-park-electrician.html": {
+    "hero": [
+      "assets/photos/hero/david-on-site-02-1600x900.webp",
+      "Electrician on site working on exterior cabling and hardware"
+    ],
+    "gallery_set": [
+      [
+        "david-on-site-02",
+        "Electrician on site working on exterior cabling and hardware"
+      ]
+    ],
+    "icons": [
+      "anim-bolt-pulse.svg",
+      "icon-calendar-clock.svg"
+    ],
+    "og": "assets/photos/og/og-home.jpg"
+  }
+}
