@@ -1,0 +1,36 @@
+<<<<<<< ours
+<<<<<<< ours
+<<<<<<< ours
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-hidden="true">
+  <style>
+    @keyframes pulse {
+      0%   { transform: scale(1);   opacity: 1; }
+      50%  { transform: scale(1.08); opacity: .85; }
+      100% { transform: scale(1);   opacity: 1; }
+    }
+    @keyframes dash {
+      0%   { stroke-dashoffset: 90; opacity: .45; }
+      45%  { stroke-dashoffset: 0;  opacity: 1; }
+      100% { stroke-dashoffset: -90; opacity: .45; }
+    }
+    .bolt { transform-origin: 12px 12px; animation: pulse 1.4s ease-in-out infinite; }
+    .ring { stroke-dasharray: 90; stroke-dashoffset: 90; animation: dash 1.4s ease-in-out infinite; }
+  </style>
+  <circle class="ring" cx="12" cy="12" r="8.5"/>
+  <path class="bolt" d="M13 2.5 6.5 13h5L11 21.5 17.5 11h-5L13 2.5z"/>
+</svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#165dff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect width="24" height="24" rx="6" fill="#eef4ff" stroke="none"/><path d="M13 2 5 14h5l-1 8 8-12h-5z"/><circle cx="12" cy="12" r="9" opacity=".18"/></svg>
+>>>>>>> theirs
+=======
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#165dff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect width="24" height="24" rx="6" fill="#eef4ff" stroke="none"/><path d="M13 2 5 14h5l-1 8 8-12h-5z"/><circle cx="12" cy="12" r="9" opacity=".18"/></svg>
+>>>>>>> theirs
+=======
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#165dff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <style>
+    path, circle { transform-origin: center; animation: pulse 2.6s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: .7; transform: scale(1); } 50% { opacity: 1; transform: scale(1.04); } }
+  </style>
+  <path d="M13 2 6 13h5l-1 9 8-12h-5l0-8Z"/>
+</svg>
+>>>>>>> theirs

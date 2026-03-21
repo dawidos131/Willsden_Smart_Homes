@@ -1,0 +1,24 @@
+<<<<<<< ours
+<<<<<<< ours
+<<<<<<< ours
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" role="img" aria-hidden="true">
+
+  <path d="M5 10h10l3-2v8l-3-2H5z"/>
+  <path d="M7 16v3"/>
+  <path d="M5 19h6"/>
+  <path d="M18 12h3"/>
+  <path d="M18 9.5l2-1.5"/>
+  <path d="M18 14.5l2 1.5"/>
+
+</svg>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#165dff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect width="24" height="24" rx="6" fill="#eef4ff" stroke="none"/><path d="M5 12h7l7-4v8l-7-4H5z"/><path d="M4 20l2-3"/><path d="M20 20l-2-3"/></svg>
+>>>>>>> theirs
+=======
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#165dff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect width="24" height="24" rx="6" fill="#eef4ff" stroke="none"/><path d="M5 12h7l7-4v8l-7-4H5z"/><path d="M4 20l2-3"/><path d="M20 20l-2-3"/></svg>
+>>>>>>> theirs
+=======
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#174ea6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M4 9h8l4-4v14l-4-4H4Z"/><path d="m18 8 2-2M18 16l2 2"/>
+</svg>
+>>>>>>> theirs
