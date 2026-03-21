@@ -1,0 +1,55 @@
+{
+  "name": "Willesden Smart Homes",
+  "short_name": "WSH",
+  "icons": [
+    {
+<<<<<<< ours
+<<<<<<< ours
+<<<<<<< ours
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0A283C",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
+=======
+=======
+>>>>>>> theirs
+      "src": "icon-180x180.png",
+=======
+      "src": "/assets/favicons/icon-180x180.png",
+>>>>>>> theirs
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+<<<<<<< ours
+      "src": "favicon.svg",
+=======
+      "src": "/assets/favicons/favicon.svg",
+>>>>>>> theirs
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#0b0f16",
+  "background_color": "#f5f7fb",
+  "display": "standalone"
+<<<<<<< ours
+<<<<<<< ours
+}
+>>>>>>> theirs
+=======
+}
+>>>>>>> theirs
+=======
+}
+>>>>>>> theirs

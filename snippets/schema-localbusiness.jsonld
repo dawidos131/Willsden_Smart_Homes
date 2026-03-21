@@ -1,0 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["LocalBusiness", "Electrician"],
+  "name": "Willesden Smart Homes",
+  "url": "https://e2c8174890c245.lhr.life/",
+  "telephone": "+44 7407 023 280",
+  "email": "davidkosciesza@gmail.com",
+  "areaServed": ["NW10", "NW2", "NW6"],
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    "opens": "08:00",
+    "closes": "18:00"
+  }],
+  "sameAs": [
+    "REPLACE_WITH_GOOGLE_BUSINESS_PROFILE_URL"
+  ]
+}
+</script>
