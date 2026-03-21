@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {
+      "@type":"Question",
+      "name":"What areas do you cover?",
+      "acceptedAnswer":{"@type":"Answer","text":"Primary coverage is NW10, NW2 and NW6. If you are just outside these areas, send your postcode and availability can be confirmed."}
+    },
+    {
+      "@type":"Question",
+      "name":"How much do you charge?",
+      "acceptedAnswer":{"@type":"Answer","text":"Small jobs are priced at £50 call-out plus £50 per hour. Larger multi-step projects are quoted in writing once scope is confirmed."}
+    },
+    {
+      "@type":"Question",
+      "name":"Are you Part P registered?",
+      "acceptedAnswer":{"@type":"Answer","text":"Notifiable work can be handled via a compliant route with a registered electrician, so the right paperwork is issued where required."}
+    }
+  ]
+}
+</script>
